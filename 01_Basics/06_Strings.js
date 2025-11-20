@@ -8,11 +8,14 @@ const repoCount = 50
 // Another way to declare a string
 const stringName = new String ("Zaid")
 
-console.log(typeof stringName)
-console.log(stringName.length);
-console.log(stringName.toUpperCase);
-console.log(stringName.toLowerCase);
-console.log(stringName.split('-'));
+// console.log(typeof stringName)
+// console.log(stringName.length);
+// console.log(stringName.toUpperCase);
+// console.log(stringName.toLowerCase);
+// console.log(stringName.split('-'));
+
+console.log('zaid');
+
 
 
 
