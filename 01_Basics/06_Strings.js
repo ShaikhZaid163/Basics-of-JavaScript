@@ -6,7 +6,7 @@ const repoCount = 50
 //console.log(`Hello my name is ${name} and my repo count is ${repoCount}`)
 
 // Another way to declare a string
-const stringName = new String ("Zaid")
+const stringName = new String ("Zaid") 
 
 // console.log(typeof stringName)
 // console.log(stringName.length);
@@ -14,7 +14,16 @@ const stringName = new String ("Zaid")
 // console.log(stringName.toLowerCase);
 // console.log(stringName.split('-'));
 
-console.log('zaid');
+// console.log('zaid');
+const balance = new Number(400)
+// console.log(balance.toString().length);
+
+
+const othnum = 123.456
+console.log(othnum.toPrecision(4));
+
+
+
 
 
 
